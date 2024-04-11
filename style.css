@@ -1,0 +1,48 @@
+body{
+    background: linear-gradient(#126cb1fb 0%, #5a8bc390 40%, #fff 100% );
+}
+
+.fotoprofil{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 100px;
+}
+
+.profileimage{
+    width: 150px;
+}
+.fotoprofil p{
+    transform: translateY(-10px);
+}
+.tentang{
+    background: linear-gradient(#f4f1f1 0%, #579eae90 40%, #3a6f95fb 100% ); 
+    padding-bottom: 100px;
+}
+li{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: larger;
+}
+.tentang{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: larger;
+}
+p{
+    text-align: center;
+    padding-top: 10px;
+    font-size: x-large;
+    color: white;
+}
+h2{
+    color: white;
+}
+.contact{
+    font-size: 35px;
+}
+h5{
+    text-align: center;
+    padding-top: 50px;
+}
+
+
